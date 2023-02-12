@@ -4,7 +4,8 @@
 /node_modules/
 .next
 .env.local
-
+.eslintrc.json
+.yarn.lock
 
 
 
