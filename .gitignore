@@ -5,7 +5,7 @@
 .next
 .env.local
 /.eslintrc.json
-/yarn.lock
+
 
 
 
